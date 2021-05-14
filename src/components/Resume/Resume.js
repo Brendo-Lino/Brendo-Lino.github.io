@@ -35,7 +35,7 @@ function Resume() {
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title="Federal University of Minas Gerais [Belo Horizonte, MG] "
+              title="Federal University of Minas Gerais [Belo Horizonte, MG]"
               date="2021/2 - Present"
               content={[`Waiting for results`]}
             />
