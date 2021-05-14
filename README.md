@@ -13,21 +13,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/Brendolino/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/Brendolino/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/Brendo-Lino/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/Brendo-Lino/Portfolio/issues">Request Feature</a>
-</h3>
-
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Brendolino](https://github.com/Brendo-Lino/Portfolio). Thanks!
+This repo has been forked and modified, take a look at the original repo here [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
